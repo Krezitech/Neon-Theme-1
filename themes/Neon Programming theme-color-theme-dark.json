@@ -483,7 +483,7 @@
 			"name": "[MARKDOWN] - Color for Paragraph",
 			"scope": "meta.paragraph.markdown",
 			"settings": {
-				"foreground": "#0099ff"
+				"foreground": "#18da7f"
 			}
 		},
 		{
