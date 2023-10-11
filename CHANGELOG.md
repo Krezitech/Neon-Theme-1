@@ -16,4 +16,6 @@ All notable changes to the "neon-programming-theme" extension will be documented
 - Coloring update ot the theme for some colors had issues with contrasts
 
 ## [Unreleased]
-- More colors
+- Python Colors to Add
+- PHP Colors to Add
+- SQL Colors to Add
