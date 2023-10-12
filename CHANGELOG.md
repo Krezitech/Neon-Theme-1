@@ -4,18 +4,22 @@ All notable changes to the "neon-programming-theme" extension will be documented
 
 ## 1.0.3 (October 8, 2023)
 - Reference the images to new path
-- "debugIcon" colors removed
+- "debugIcon" colors removed.
 
 ## 1.1.0 (October 10, 2023)
-- A light theme
+- A light theme.
 
 ## 1.1.2 (October 10, 2023)
-- Logo update
+- Logo update.
 
 ## 1.1.3 (October 11, 2023)
-- Coloring update ot the theme for some colors had issues with contrasts
+- Coloring update ot the theme for some colors had issues with contrasts.
+
+## 1.1.4 (October 12, 2023)
+- Light themes with two different choices, Wood or Silver.
 
 ## [Unreleased]
-- Python Colors to Add
-- PHP Colors to Add
-- SQL Colors to Add
+- More colors.
+- Python Colors to Add.
+- PHP Colors to Add.
+- SQL Colors to Add.

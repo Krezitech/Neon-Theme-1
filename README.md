@@ -4,7 +4,7 @@
 
 A great cold night **Neon** Theme over a deep blue background with a very good contrast in order to be able to see all around you and will help you tu identify easier your code.
 
-And a fine light silver/wood Theme for a light theme.
+And a fine light Silver / Wood Theme for a light theme.
 
 Enjoy my little share.
 
@@ -27,13 +27,17 @@ Enjoy my little share.
 4. Open the **Command Palette** with Ctrl + Shift + P or ⇧ + ⌘ + P.
 5. Select **Preferences: Color Theme** and choose Neon Night's Deep Blue & Purple Theme.
 
-## Snaps Dark
+## Snap Dark-Blue
 
- ![Neon_Night's_1](https://github.com/Krezitech/Imagenes/blob/main/dark.png?raw=true)
+ ![Neon_Night's_1](https://github.com/Krezitech/Imagenes/blob/main/dark-blue.png?raw=true)
 
-## Snaps Light
+## Snap Light-Wood
 
-![Neon_Day's_1](https://github.com/Krezitech/Imagenes/blob/main/light.png?raw=true)
+![Neon_Day's_1](https://github.com/Krezitech/Imagenes/blob/main/light-brown.png?raw=true)
+
+## Snap Light-Silver
+
+![Neon_Day's_2](https://github.com/Krezitech/Imagenes/blob/main/light-silver.png?raw=true)
 
 ## Getting full experience
 
